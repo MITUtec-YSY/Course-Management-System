@@ -53,7 +53,7 @@
 + 教师界面  
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**教师界面**主要提供教师个人信息的修改以及修改学生的分数的功能，如下图所示为**教师主界面**。    
 ![课程管理系统教师主界面-(READMEIMG/CMS-UI-Teacher-Main.png)](https://github.com/TIANYU-Sky/Course-Management-System/blob/main/READMEIMG/CMS-UI-Teacher-Main.png)  
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;主界面中包含当前教师的所有教授课程信息，包括当前选择该老师课程的**学生人数**。
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;主界面中包含当前教师的所有教授课程信息，包括当前选择该老师课程的**学生人数**。  
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;进入课程中之后的**教师课程详细信息**如下图所示。其中包含选择的学生信息以及对应的分数。    
 ![课程管理系统教师课程详细信息-(READMEIMG/CMS-UI-Teacher-Class.png)](https://github.com/TIANYU-Sky/Course-Management-System/blob/main/READMEIMG/CMS-UI-Teacher-Class.png)  
 > 

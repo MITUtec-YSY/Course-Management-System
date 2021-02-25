@@ -1,5 +1,7 @@
 # Course-Management-System
-&emsp;  
+项目开发于2018年7月，开发耗时12天
+&emsp;   
+&emsp;     
 # 目录
 > ## **[项目结构](#First)**  
 &emsp; 

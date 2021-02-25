@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <AssemblyName>MRsystem.Collections</AssemblyName>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DocumentationFile>bin\Debug\netstandard2.0\MRsystem.Collections.xml</DocumentationFile>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="MRsystem.Exception">
+      <HintPath>..\..\MRsystem.Exception\MRsystem.Exception\bin\Debug\netstandard2.0\MRsystem.Exception.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

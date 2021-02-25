@@ -1,0 +1,466 @@
+<!mrx version=1.0.0.1 encode="utf-8" mode="automode" lang="English"/!>
+<MRX>
+	<Entry name = "CLASS">
+		<Entry name = "11000220">
+				<Key name = "College" type = "INT">14</Key>
+				<Key name = "Credit" type = "INT">4</Key>
+				<Key name = "Grade" type = "INT">4</Key>
+				<Key name = "MaxCapacity" type = "INT">30</Key>
+				<Key name = "Introduction"></Key>
+				<Key name = "Name">工程流体力学A</Key>
+		</Entry>
+		<Entry name = "11000230">
+				<Key name = "College" type = "INT">14</Key>
+				<Key name = "Credit" type = "INT">4</Key>
+				<Key name = "Grade" type = "INT">4</Key>
+				<Key name = "MaxCapacity" type = "INT">30</Key>
+				<Key name = "Introduction"></Key>
+				<Key name = "Name">工程热力学A</Key>
+		</Entry>
+		<Entry name = "12001780">
+				<Key name = "College" type = "INT">12</Key>
+				<Key name = "Credit" type = "INT">3</Key>
+				<Key name = "Grade" type = "INT">4</Key>
+				<Key name = "MaxCapacity" type = "INT">36</Key>
+				<Key name = "Introduction"></Key>
+				<Key name = "Name">计算机网络</Key>
+		</Entry>
+		<Entry name = "12002040">
+				<Key name = "College" type = "INT">12</Key>
+				<Key name = "Credit" type = "INT">3</Key>
+				<Key name = "Grade" type = "INT">3</Key>
+				<Key name = "MaxCapacity" type = "INT">40</Key>
+				<Key name = "Introduction"></Key>
+				<Key name = "Name">离散数学</Key>
+		</Entry>
+		<Entry name = "12002070">
+				<Key name = "College" type = "INT">12</Key>
+				<Key name = "Credit" type = "INT">3</Key>
+				<Key name = "Grade" type = "INT">4</Key>
+				<Key name = "MaxCapacity" type = "INT">45</Key>
+				<Key name = "Introduction"></Key>
+				<Key name = "Name">数字电子技术</Key>
+		</Entry>
+		<Entry name = "12002510">
+				<Key name = "College" type = "INT">12</Key>
+				<Key name = "Credit" type = "INT">4</Key>
+				<Key name = "Grade" type = "INT">2</Key>
+				<Key name = "MaxCapacity" type = "INT">30</Key>
+				<Key name = "Introduction"></Key>
+				<Key name = "Name">面向对象程序设计</Key>
+		</Entry>
+		<Entry name = "12002900">
+				<Key name = "College" type = "INT">12</Key>
+				<Key name = "Credit" type = "INT">4</Key>
+				<Key name = "Grade" type = "INT">3</Key>
+				<Key name = "MaxCapacity" type = "INT">30</Key>
+				<Key name = "Introduction"></Key>
+				<Key name = "Name">操作系统A</Key>
+		</Entry>
+		<Entry name = "12002910">
+			<Entry name = "0100013">
+						<Key name = "Name" type = "INT"></Key>
+			</Entry>
+				<Key name = "College" type = "INT">12</Key>
+				<Key name = "Credit" type = "INT">4</Key>
+				<Key name = "Grade" type = "INT">3</Key>
+				<Key name = "MaxCapacity" type = "INT">30</Key>
+				<Key name = "Introduction"></Key>
+				<Key name = "Name">JAVA编程与开发</Key>
+		</Entry>
+		<Entry name = "12002950">
+				<Key name = "College" type = "INT">12</Key>
+				<Key name = "Credit" type = "INT">3</Key>
+				<Key name = "Grade" type = "INT">4</Key>
+				<Key name = "MaxCapacity" type = "INT">35</Key>
+				<Key name = "Introduction"></Key>
+				<Key name = "Name">计算机组成</Key>
+		</Entry>
+		<Entry name = "12100570">
+				<Key name = "College" type = "INT">12</Key>
+				<Key name = "Credit" type = "INT">0.5</Key>
+				<Key name = "Grade" type = "INT">4</Key>
+				<Key name = "MaxCapacity" type = "INT">37</Key>
+				<Key name = "Introduction"></Key>
+				<Key name = "Name">计算机网络实验</Key>
+		</Entry>
+		<Entry name = "12101240">
+				<Key name = "College" type = "INT">12</Key>
+				<Key name = "Credit" type = "INT">0.5</Key>
+				<Key name = "Grade" type = "INT">2</Key>
+				<Key name = "MaxCapacity" type = "INT">35</Key>
+				<Key name = "Introduction"></Key>
+				<Key name = "Name">面向对象程序设计实验</Key>
+		</Entry>
+		<Entry name = "12101400">
+				<Key name = "College" type = "INT">12</Key>
+				<Key name = "Credit" type = "INT">0.5</Key>
+				<Key name = "Grade" type = "INT">3</Key>
+				<Key name = "MaxCapacity" type = "INT">35</Key>
+				<Key name = "Introduction"></Key>
+				<Key name = "Name">操作系统实验</Key>
+		</Entry>
+		<Entry name = "12101410">
+			<Entry name = "0100013">
+						<Key name = "Name" type = "INT"></Key>
+						<Key name = "1612480232"></Key>
+			</Entry>
+				<Key name = "College" type = "INT">12</Key>
+				<Key name = "Credit" type = "INT">0.5</Key>
+				<Key name = "Grade" type = "INT">3</Key>
+				<Key name = "MaxCapacity" type = "INT">36</Key>
+				<Key name = "Introduction"></Key>
+				<Key name = "Name">JAVA编程与开发实验</Key>
+		</Entry>
+		<Entry name = "12101460">
+				<Key name = "College" type = "INT">12</Key>
+				<Key name = "Credit" type = "INT">0.5</Key>
+				<Key name = "Grade" type = "INT">4</Key>
+				<Key name = "MaxCapacity" type = "INT">35</Key>
+				<Key name = "Introduction"></Key>
+				<Key name = "Name">计算机组成实验</Key>
+		</Entry>
+		<Entry name = "15002110">
+				<Key name = "College" type = "INT">0</Key>
+				<Key name = "Credit" type = "INT">4</Key>
+				<Key name = "Grade" type = "INT">0</Key>
+				<Key name = "MaxCapacity" type = "INT">50</Key>
+				<Key name = "Introduction"></Key>
+				<Key name = "Name">大学英语（1）</Key>
+		</Entry>
+		<Entry name = "15002120">
+			<Entry name = "0100024">
+						<Key name = "Name" type = "INT"></Key>
+						<Key name = "1612480232"></Key>
+						<Key name = "1612480233"></Key>
+						<Key name = "1620550321"></Key>
+			</Entry>
+				<Key name = "College" type = "INT">0</Key>
+				<Key name = "Credit" type = "INT">4</Key>
+				<Key name = "Grade" type = "INT">0</Key>
+				<Key name = "MaxCapacity" type = "INT">50</Key>
+				<Key name = "Introduction"></Key>
+				<Key name = "Name">大学英语（2）</Key>
+		</Entry>
+		<Entry name = "15003850">
+				<Key name = "College" type = "INT">0</Key>
+				<Key name = "Credit" type = "INT">2</Key>
+				<Key name = "Grade" type = "INT">0</Key>
+				<Key name = "MaxCapacity" type = "INT">50</Key>
+				<Key name = "Introduction"></Key>
+				<Key name = "Name">交互综合英语</Key>
+		</Entry>
+		<Entry name = "15004540">
+				<Key name = "College" type = "INT">0</Key>
+				<Key name = "Credit" type = "INT">2</Key>
+				<Key name = "Grade" type = "INT">0</Key>
+				<Key name = "MaxCapacity" type = "INT">50</Key>
+				<Key name = "Introduction"></Key>
+				<Key name = "Name">交互实用英语</Key>
+		</Entry>
+		<Entry name = "19000500">
+				<Key name = "College" type = "INT">18</Key>
+				<Key name = "Credit" type = "INT">3</Key>
+				<Key name = "Grade" type = "INT">2</Key>
+				<Key name = "MaxCapacity" type = "INT">38</Key>
+				<Key name = "Introduction"></Key>
+				<Key name = "Name">人体生理学</Key>
+		</Entry>
+		<Entry name = "19001890">
+				<Key name = "College" type = "INT">18</Key>
+				<Key name = "Credit" type = "INT">2</Key>
+				<Key name = "Grade" type = "INT">4</Key>
+				<Key name = "MaxCapacity" type = "INT">35</Key>
+				<Key name = "Introduction"></Key>
+				<Key name = "Name">毒理学</Key>
+		</Entry>
+		<Entry name = "19002250">
+				<Key name = "College" type = "INT">18</Key>
+				<Key name = "Credit" type = "INT">3</Key>
+				<Key name = "Grade" type = "INT">4</Key>
+				<Key name = "MaxCapacity" type = "INT">35</Key>
+				<Key name = "Introduction"></Key>
+				<Key name = "Name">物理化学</Key>
+		</Entry>
+		<Entry name = "19003200">
+				<Key name = "College" type = "INT">18</Key>
+				<Key name = "Credit" type = "INT">2</Key>
+				<Key name = "Grade" type = "INT">4</Key>
+				<Key name = "MaxCapacity" type = "INT">35</Key>
+				<Key name = "Introduction"></Key>
+				<Key name = "Name">免疫学概论B</Key>
+		</Entry>
+		<Entry name = "20000441">
+				<Key name = "College" type = "INT">20</Key>
+				<Key name = "Credit" type = "INT">2</Key>
+				<Key name = "Grade" type = "INT">1</Key>
+				<Key name = "MaxCapacity" type = "INT">60</Key>
+				<Key name = "Introduction"></Key>
+				<Key name = "Name">大学写作B</Key>
+		</Entry>
+		<Entry name = "20001521">
+				<Key name = "College" type = "INT">20</Key>
+				<Key name = "Credit" type = "INT">2</Key>
+				<Key name = "Grade" type = "INT">2</Key>
+				<Key name = "MaxCapacity" type = "INT">50</Key>
+				<Key name = "Introduction"></Key>
+				<Key name = "Name">现代汉语B</Key>
+		</Entry>
+		<Entry name = "22000050">
+				<Key name = "College" type = "INT">0</Key>
+				<Key name = "Credit" type = "INT">4</Key>
+				<Key name = "Grade" type = "INT">2</Key>
+				<Key name = "MaxCapacity" type = "INT">40</Key>
+				<Key name = "Introduction"></Key>
+				<Key name = "Name">大学物理A（1）</Key>
+		</Entry>
+		<Entry name = "22000060">
+				<Key name = "College" type = "INT">0</Key>
+				<Key name = "Credit" type = "INT">4</Key>
+				<Key name = "Grade" type = "INT">3</Key>
+				<Key name = "MaxCapacity" type = "INT">40</Key>
+				<Key name = "Introduction"></Key>
+				<Key name = "Name">大学物理A（2）</Key>
+		</Entry>
+		<Entry name = "22000071">
+				<Key name = "College" type = "INT">12</Key>
+				<Key name = "Credit" type = "INT">4</Key>
+				<Key name = "Grade" type = "INT">2</Key>
+				<Key name = "MaxCapacity" type = "INT">80</Key>
+				<Key name = "Introduction"></Key>
+				<Key name = "Name">大学物理B</Key>
+		</Entry>
+		<Entry name = "22000142">
+				<Key name = "College" type = "INT">0</Key>
+				<Key name = "Credit" type = "INT">2.5</Key>
+				<Key name = "Grade" type = "INT">3</Key>
+				<Key name = "MaxCapacity" type = "INT">50</Key>
+				<Key name = "Introduction"></Key>
+				<Key name = "Name">复变函数与积分变换</Key>
+		</Entry>
+		<Entry name = "22000172">
+				<Key name = "College" type = "INT">0</Key>
+				<Key name = "Credit" type = "INT">3</Key>
+				<Key name = "Grade" type = "INT">3</Key>
+				<Key name = "MaxCapacity" type = "INT">60</Key>
+				<Key name = "Introduction"></Key>
+				<Key name = "Name">概率论与数理统计</Key>
+		</Entry>
+		<Entry name = "22000210">
+				<Key name = "College" type = "INT">0</Key>
+				<Key name = "Credit" type = "INT">6</Key>
+				<Key name = "Grade" type = "INT">1</Key>
+				<Key name = "MaxCapacity" type = "INT">60</Key>
+				<Key name = "Introduction"></Key>
+				<Key name = "Name">高等数学A（1）</Key>
+		</Entry>
+		<Entry name = "22000220">
+				<Key name = "College" type = "INT">0</Key>
+				<Key name = "Credit" type = "INT">6</Key>
+				<Key name = "Grade" type = "INT">2</Key>
+				<Key name = "MaxCapacity" type = "INT">60</Key>
+				<Key name = "Introduction"></Key>
+				<Key name = "Name">高等数学A（2）</Key>
+		</Entry>
+		<Entry name = "22000621">
+				<Key name = "College" type = "INT">0</Key>
+				<Key name = "Credit" type = "INT">3</Key>
+				<Key name = "Grade" type = "INT">2</Key>
+				<Key name = "MaxCapacity" type = "INT">60</Key>
+				<Key name = "Introduction"></Key>
+				<Key name = "Name">线性代数A</Key>
+		</Entry>
+		<Entry name = "22000622">
+				<Key name = "College" type = "INT">12</Key>
+				<Key name = "Credit" type = "INT">2</Key>
+				<Key name = "Grade" type = "INT">1</Key>
+				<Key name = "MaxCapacity" type = "INT">60</Key>
+				<Key name = "Introduction"></Key>
+				<Key name = "Name">线性代数B</Key>
+		</Entry>
+		<Entry name = "22000762">
+				<Key name = "College" type = "INT">14</Key>
+				<Key name = "Credit" type = "INT">2</Key>
+				<Key name = "Grade" type = "INT">1</Key>
+				<Key name = "MaxCapacity" type = "INT">30</Key>
+				<Key name = "Introduction"></Key>
+				<Key name = "Name">普通化学</Key>
+		</Entry>
+		<Entry name = "22001241">
+				<Key name = "College" type = "INT">18</Key>
+				<Key name = "Credit" type = "INT">4</Key>
+				<Key name = "Grade" type = "INT">3</Key>
+				<Key name = "MaxCapacity" type = "INT">25</Key>
+				<Key name = "Introduction"></Key>
+				<Key name = "Name">无机化学A</Key>
+		</Entry>
+		<Entry name = "22001260">
+				<Key name = "College" type = "INT">18</Key>
+				<Key name = "Credit" type = "INT">2</Key>
+				<Key name = "Grade" type = "INT">2</Key>
+				<Key name = "MaxCapacity" type = "INT">40</Key>
+				<Key name = "Introduction"></Key>
+				<Key name = "Name">分析化学B</Key>
+		</Entry>
+		<Entry name = "22100040">
+				<Key name = "College" type = "INT">14</Key>
+				<Key name = "Credit" type = "INT">0.5</Key>
+				<Key name = "Grade" type = "INT">3</Key>
+				<Key name = "MaxCapacity" type = "INT">35</Key>
+				<Key name = "Introduction"></Key>
+				<Key name = "Name">大学物理实验（1）</Key>
+		</Entry>
+		<Entry name = "22100050">
+				<Key name = "College" type = "INT">14</Key>
+				<Key name = "Credit" type = "INT">0.5</Key>
+				<Key name = "Grade" type = "INT">4</Key>
+				<Key name = "MaxCapacity" type = "INT">35</Key>
+				<Key name = "Introduction"></Key>
+				<Key name = "Name">大学物理实验（2）</Key>
+		</Entry>
+		<Entry name = "22100140">
+				<Key name = "College" type = "INT">14</Key>
+				<Key name = "Credit" type = "INT">0.5</Key>
+				<Key name = "Grade" type = "INT">3</Key>
+				<Key name = "MaxCapacity" type = "INT">36</Key>
+				<Key name = "Introduction"></Key>
+				<Key name = "Name">普通化学实验</Key>
+		</Entry>
+		<Entry name = "32000010">
+				<Key name = "College" type = "INT">0</Key>
+				<Key name = "Credit" type = "INT">2.5</Key>
+				<Key name = "Grade" type = "INT">0</Key>
+				<Key name = "MaxCapacity" type = "INT">100</Key>
+				<Key name = "Introduction"></Key>
+				<Key name = "Name">思想道德修养与法律基础</Key>
+		</Entry>
+		<Entry name = "32000020">
+				<Key name = "College" type = "INT">0</Key>
+				<Key name = "Credit" type = "INT">2</Key>
+				<Key name = "Grade" type = "INT">0</Key>
+				<Key name = "MaxCapacity" type = "INT">100</Key>
+				<Key name = "Introduction"></Key>
+				<Key name = "Name">中国近现代史纲要</Key>
+		</Entry>
+		<Entry name = "32000030">
+				<Key name = "College" type = "INT">0</Key>
+				<Key name = "Credit" type = "INT">2.5</Key>
+				<Key name = "Grade" type = "INT">0</Key>
+				<Key name = "MaxCapacity" type = "INT">100</Key>
+				<Key name = "Introduction"></Key>
+				<Key name = "Name">马克思主义基本原理概论</Key>
+		</Entry>
+		<Entry name = "32000120">
+				<Key name = "College" type = "INT">0</Key>
+				<Key name = "Credit" type = "INT">3</Key>
+				<Key name = "Grade" type = "INT">0</Key>
+				<Key name = "MaxCapacity" type = "INT">100</Key>
+				<Key name = "Introduction"></Key>
+				<Key name = "Name">毛泽东思想和中国特色社会主义理论体系</Key>
+		</Entry>
+		<Entry name = "32000410">
+				<Key name = "College" type = "INT">0</Key>
+				<Key name = "Credit" type = "INT">0.5</Key>
+				<Key name = "Grade" type = "INT">0</Key>
+				<Key name = "MaxCapacity" type = "INT">50</Key>
+				<Key name = "Introduction"></Key>
+				<Key name = "Name">形式与政策（1）</Key>
+		</Entry>
+		<Entry name = "32000420">
+				<Key name = "College" type = "INT">0</Key>
+				<Key name = "Credit" type = "INT">0.5</Key>
+				<Key name = "Grade" type = "INT">0</Key>
+				<Key name = "MaxCapacity" type = "INT">50</Key>
+				<Key name = "Introduction"></Key>
+				<Key name = "Name">形式与政策（2）</Key>
+		</Entry>
+	</Entry>
+	<Entry name = "COLLEGE">
+		<Key name = "0" type = "INT">通识课程</Key>
+		<Key name = "12" type = "INT">光电信息与计算机工程学院</Key>
+		<Key name = "14" type = "INT">能源动力学院</Key>
+		<Key name = "18" type = "INT">医疗器械与食品工程学院</Key>
+		<Key name = "20" type = "INT">出版印刷与艺术设计学院</Key>
+	</Entry>
+	<Entry name = "STUDENT">
+		<Entry name = "1612480228">
+				<Key name = "College" type = "INT">12</Key>
+				<Key name = "Grade" type = "INT">4</Key>
+				<Key name = "Major">网络工程</Key>
+				<Key name = "Name">STU1</Key>
+		</Entry>
+		<Entry name = "1612480229">
+				<Key name = "College" type = "INT">12</Key>
+				<Key name = "Grade" type = "INT">4</Key>
+				<Key name = "Major">计算机科学与技术</Key>
+				<Key name = "Name">STU2</Key>
+		</Entry>
+		<Entry name = "1612480230">
+				<Key name = "College" type = "INT">12</Key>
+				<Key name = "Grade" type = "INT">4</Key>
+				<Key name = "Major">智能科学</Key>
+				<Key name = "Name">STU3</Key>
+		</Entry>
+		<Entry name = "1612480231">
+				<Key name = "College" type = "INT">12</Key>
+				<Key name = "Grade" type = "INT">4</Key>
+				<Key name = "Major">计算机科学与技术</Key>
+				<Key name = "Name">STU4</Key>
+		</Entry>
+		<Entry name = "1612480232">
+			<Entry name = "15002120">
+						<Key name = "Score" type = "INT">76</Key>
+						<Key name = "Teacher">0100024</Key>
+			</Entry>
+				<Key name = "College" type = "INT">12</Key>
+				<Key name = "Grade" type = "INT">4</Key>
+				<Key name = "Major">计算机科学与技术</Key>
+				<Key name = "Name">STU5</Key>
+		</Entry>
+		<Entry name = "1612480233">
+			<Entry name = "15002120">
+						<Key name = "Score" type = "INT">95</Key>
+						<Key name = "Teacher">0100024</Key>
+			</Entry>
+				<Key name = "College" type = "INT">12</Key>
+				<Key name = "Grade" type = "INT">4</Key>
+				<Key name = "Major">计算机科学与技术</Key>
+				<Key name = "Name">STU6</Key>
+		</Entry>
+		<Entry name = "1620550321">
+			<Entry name = "15002120">
+						<Key name = "Score" type = "INT">80</Key>
+						<Key name = "Teacher">0100024</Key>
+			</Entry>
+				<Key name = "College" type = "INT">20</Key>
+				<Key name = "Grade" type = "INT">4</Key>
+				<Key name = "Major">新闻传播类</Key>
+				<Key name = "Name">STU7</Key>
+		</Entry>
+	</Entry>
+	<Entry name = "TEACHER">
+		<Key name = "0100013">霍欢</Key>
+		<Key name = "0100014">魏赟</Key>
+		<Key name = "0100015">张艳</Key>
+		<Key name = "0100016">张晶晶</Key>
+		<Key name = "0100017">陈国平</Key>
+		<Key name = "0100018">沈易</Key>
+		<Key name = "0100019">曹春萍</Key>
+		<Key name = "0100020">韩韧</Key>
+		<Key name = "0100021">彭敦陆</Key>
+		<Key name = "0100022">钱伟民</Key>
+		<Key name = "0100023">陈丽莉</Key>
+		<Key name = "0100024">余玉清</Key>
+		<Key name = "0100025">顾秋洁</Key>
+		<Key name = "0100026">钱建秋</Key>
+		<Key name = "0100027">袁晶</Key>
+		<Key name = "0100028">张冬</Key>
+		<Key name = "0100029">邬春学</Key>
+		<Key name = "0100030">杨桂松</Key>
+		<Key name = "0100031">王振军</Key>
+		<Key name = "0100032">马纪英</Key>
+		<Key name = "0100033">陈章</Key>
+		<Key name = "0100034">齐熙泽</Key>
+		<Key name = "0100035">王小惠</Key>
+	</Entry>
+</MRX>

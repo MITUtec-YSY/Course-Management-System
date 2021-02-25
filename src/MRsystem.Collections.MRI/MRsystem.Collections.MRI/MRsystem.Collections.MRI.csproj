@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DocumentationFile>bin\Debug\netstandard2.0\MRsystem.Collections.MRI.xml</DocumentationFile>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="MRsystem">
+      <HintPath>..\..\MRsystem.Collections\MRsystem\bin\Debug\netstandard2.0\MRsystem.dll</HintPath>
+    </Reference>
+    <Reference Include="MRsystem.Collections">
+      <HintPath>..\..\MRsystem.Collections\MRsystem\bin\Debug\netstandard2.0\MRsystem.Collections.dll</HintPath>
+    </Reference>
+    <Reference Include="MRsystem.Exception">
+      <HintPath>..\..\MRsystem.Collections\MRsystem\bin\Debug\netstandard2.0\MRsystem.Exception.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

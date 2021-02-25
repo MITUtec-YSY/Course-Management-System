@@ -1,0 +1,154 @@
+/*
+	此文件用于保存学生、老师的登陆信息
+*/
+[Demo]    //登陆学生的学号、老师的工号或管理员账户名
+
+
+
+
+
+
+
+PassWord = "Your Landing Password"    //登陆时的密码
+
+
+
+
+
+
+
+Classify = "Your Landing Level"    //登陆等级（用于指示登陆后进入教师、学生还是管理员系统）
+
+
+
+
+
+
+[E000000]
+PassWord = "000000"
+Classify = "Control"
+
+[EC000]
+PassWord = "000000"
+Classify = "Control"
+
+[E0100013]
+PassWord = "000000"
+Classify = "Teacher"
+
+[E0100014]
+PassWord = "000000"
+Classify = "Teacher"
+
+[E0100015]
+PassWord = "000000"
+Classify = "Teacher"
+
+[E0100016]
+PassWord = "000000"
+Classify = "Teacher"
+
+[E0100017]
+PassWord = "000000"
+Classify = "Teacher"
+
+[E0100018]
+PassWord = "000000"
+Classify = "Teacher"
+
+[E0100019]
+PassWord = "000000"
+Classify = "Teacher"
+
+[E0100020]
+PassWord = "000000"
+Classify = "Teacher"
+
+[E0100021]
+PassWord = "000000"
+Classify = "Teacher"
+
+[E0100022]
+PassWord = "000000"
+Classify = "Teacher"
+
+[E0100023]
+PassWord = "000000"
+Classify = "Teacher"
+
+[E0100024]
+PassWord = "000000"
+Classify = "Teacher"
+
+[E0100025]
+PassWord = "000000"
+Classify = "Teacher"
+
+[E0100026]
+PassWord = "000000"
+Classify = "Teacher"
+
+[E0100027]
+PassWord = "000000"
+Classify = "Teacher"
+
+[E0100028]
+PassWord = "000000"
+Classify = "Teacher"
+
+[EE0100029]
+PassWord = "000000"
+Classify = "Teacher"
+
+[E0100030]
+PassWord = "000000"
+Classify = "Teacher"
+
+[E0100031]
+PassWord = "000000"
+Classify = "Teacher"
+
+[E0100032]
+PassWord = "000000"
+Classify = "Teacher"
+
+[E0100033]
+PassWord = "000000"
+Classify = "Teacher"
+
+[E0100034]
+PassWord = "000000"
+Classify = "Teacher"
+
+[E0100035]
+PassWord = "000000"
+Classify = "Teacher"
+
+[E1612480228]
+PassWord = "000000"
+Classify = "Student"
+
+[E1612480229]
+PassWord = "000000"
+Classify = "Student"
+
+[E1612480230]
+PassWord = "000000"
+Classify = "Student"
+
+[E1612480231]
+PassWord = "000000"
+Classify = "Student"
+
+[E1612480232]
+PassWord = "000000"
+Classify = "Student"
+
+[E1612480233]
+PassWord = "000000"
+Classify = "Student"
+
+[E1620550321]
+PassWord = "000000"
+Classify = "Student"
+

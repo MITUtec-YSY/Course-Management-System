@@ -1,0 +1,15 @@
+[Runtime]
+RuntimeEnvironment=".NET.Framework 4.7.2"
+ForWindows="Windows 10"
+WithWindows="Windows Vista/7/8/8.1"
+
+[ClassManage]
+SoftWareName="课程管理系统"
+SoftWareVersion="1.1.0(Bate)"
+DataBaseVersion="1.0.1(Bate)"
+EncryptionVersion="无密钥"
+
+[RunPath]
+MRXFile="bin\\ClassManage.mrx"
+MRIFile="bin\\PersonManage.mri"
+RUNMain="ClassOptions.exe"
